@@ -22,7 +22,7 @@ jobs:
         env:
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_CHAT_ID:   ${{ secrets.TG_CHAT_ID }}
-        run: python feed_publisher_v3.py
+        run: python feed_publisher_v4.py
       - name: Commit feed if it changed
         run: |
           git config user.name  "feed-bot"
