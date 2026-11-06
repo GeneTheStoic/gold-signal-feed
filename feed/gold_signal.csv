@@ -1,2 +1,2 @@
 schema,date,signal,ensemble,z_vrp,z_skew,z_pcr,z_term,score,regime_favorable,macro_favorable,trend_er,blocked_by,generated_utc
-2,2026.11.04,NONE,0.1487,0.0478,0.3017,0.3817,-0.1363,3.5,1,0,0.0382,MACRO,2026-11-05T03:40:05Z
+2,2026.11.05,NONE,0.7200,0.0746,-0.0302,2.7054,0.1304,3.5,1,0,0.0351,MACRO,2026-11-06T03:35:30Z
